@@ -1,0 +1,13 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+html, body {
+  font-family: Roboto;
+  margin: 0;
+  height: 100%;
+  background-color: #f5f5f5;
+}
+
+a {
+  color: #204958;
+}

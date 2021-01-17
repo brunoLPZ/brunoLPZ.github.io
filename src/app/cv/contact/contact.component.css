@@ -1,0 +1,40 @@
+.contact-data-wrapper {
+  margin-top: 20px;
+  max-width: 300px;
+  min-width: 320px;
+  color: #050d1a;
+}
+
+.full-name {
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+
+.date-title {
+  font-size: 20px;
+  margin-top: 25px;
+}
+
+.profile-wrapper {
+  text-align: center;
+}
+
+.rounded-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.base-data {
+  text-align: center;
+}
+
+.further-data {
+  padding: 10px;
+  margin-top: 10px;
+}
+
+a {
+  color: #050d1a;
+}

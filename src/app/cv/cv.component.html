@@ -1,0 +1,15 @@
+<div fxLayout="column">
+  <div class="title">Un poco sobre mi</div>
+  <app-contact fxLayoutAlign="center"></app-contact>
+  <p class="quick-links">
+    <mat-button-toggle-group name="fontStyle" aria-label="Font Style">
+      <mat-button-toggle routerLink="." fragment="aboutme">Sobre mí</mat-button-toggle>
+      <mat-button-toggle routerLink="." fragment="experience">Experiencia</mat-button-toggle>
+      <mat-button-toggle routerLink="." fragment="studies">Formación</mat-button-toggle>
+      <mat-button-toggle routerLink="." fragment="langs">Idiomas</mat-button-toggle>
+    </mat-button-toggle-group>
+  </p>
+  <div fxFlex class="body-wrapper">
+    <app-body></app-body>
+  </div>
+</div>

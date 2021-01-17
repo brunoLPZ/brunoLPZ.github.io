@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg10"
+   width="360"
+   height="583"
+   viewBox="0 0 360 583"
+   sodipodi:docname="buff_overflow_1.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="1.4185249"
+     inkscape:cx="1.7786274"
+     inkscape:cy="289.05838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g18" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g18">
+    <rect
+       style="fill:#ff5555"
+       id="rect3208"
+       width="222.06168"
+       height="97.284157"
+       x="72.610641"
+       y="38.067711" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="135.35187"
+       y="94.464333"
+       id="text3212"><tspan
+         sodipodi:role="line"
+         id="tspan3210"
+         x="135.35187"
+         y="94.464333"
+         style="font-size:26.6667px">Código</tspan></text>
+    <rect
+       style="fill:#008080;stroke-width:1.57018"
+       id="rect3220"
+       width="222.06169"
+       height="97.283997"
+       x="72.610641"
+       y="135.35187"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="143.80675"
+       y="191.79903"
+       id="text3212-8"><tspan
+         sodipodi:role="line"
+         id="tspan3210-4"
+         x="143.80675"
+         y="191.79903"
+         style="font-size:26.6667px">Datos</tspan></text>
+    <rect
+       style="fill:#ff9955;stroke-width:1.01063"
+       id="rect3240"
+       width="222.06168"
+       height="97.283997"
+       x="72.610641"
+       y="232.63586" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="146.0744"
+       y="287.24554"
+       id="text3212-8-6"><tspan
+         sodipodi:role="line"
+         id="tspan3210-4-6"
+         x="146.0744"
+         y="287.24554"
+         style="font-size:26.6667px">Heap</tspan></text>
+    <rect
+       style="fill:#c8b7b7;stroke-width:1.01754"
+       id="rect3260"
+       width="222.06169"
+       height="97.283997"
+       x="72.610641"
+       y="329.91986" />
+    <rect
+       style="fill:#decd87;stroke-width:1.02462"
+       id="rect3264"
+       width="222.06169"
+       height="97.283997"
+       x="72.610641"
+       y="427.20386" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="156.87215"
+       y="484.26807"
+       id="text3212-8-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan3210-4-6-9"
+         x="156.87215"
+         y="484.26807"
+         style="font-size:26.6667px">Pila</tspan></text>
+    <rect
+       style="fill:#000000"
+       id="rect3286"
+       width="2.8198307"
+       height="64.85611"
+       x="117.72793"
+       y="392.66141" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000"
+       id="path3305"
+       sodipodi:sides="3"
+       sodipodi:cx="118.88757"
+       sodipodi:cy="384.70221"
+       sodipodi:r1="16.201092"
+       sodipodi:r2="8.1005449"
+       sodipodi:arg1="-1.5784885"
+       sodipodi:arg2="-0.53129093"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 118.76295,368.5016 14.21708,24.19299 -28.06029,0.21585 z"
+       inkscape:transform-center-x="-0.030039461"
+       inkscape:transform-center-y="-3.9961908"
+       transform="matrix(0.48209782,0,0,1,61.64268,0)" />
+    <rect
+       style="fill:#000000"
+       id="rect3286-9"
+       width="2.8198307"
+       height="64.85611"
+       x="244.76999"
+       y="296.17789" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000"
+       id="path3305-3"
+       sodipodi:sides="3"
+       sodipodi:cx="118.88757"
+       sodipodi:cy="384.70221"
+       sodipodi:r1="16.201092"
+       sodipodi:r2="8.1005449"
+       sodipodi:arg1="-1.5784885"
+       sodipodi:arg2="-0.53129093"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 118.76295,368.5016 14.21708,24.19299 -28.06029,0.21585 z"
+       inkscape:transform-center-x="-0.1875575"
+       inkscape:transform-center-y="4.0121873"
+       transform="matrix(-0.48192385,-0.01295024,0.02686226,-0.99963915,293.13721,755.21555)" />
+  </g>
+</svg>
