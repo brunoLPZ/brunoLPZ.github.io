@@ -29,11 +29,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  brunoLPZ
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 show_excerpts: true
 
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
