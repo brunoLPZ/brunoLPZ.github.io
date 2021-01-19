@@ -11,3 +11,7 @@ static blog pages.
 ## Run locally
 
 ```bundle exec jekyll serve```
+
+## Build for production locally (github pages already does this when pushing to master)
+
+```JEKYLL_ENV=production bundle exec jekyll build```

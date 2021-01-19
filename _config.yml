@@ -55,3 +55,4 @@ plugins:
 #   - vendor/ruby/
 
 permalink: /:categories/:year/:month/:day/:title/
+google_analytics: G-HB5TRQ47KY
