@@ -11,18 +11,21 @@ ejemplo sencillo paso a paso.
 <!--more-->
 
 ## Contenidos
-
-* ### [Conceptos básicos antes de empezar](#before-begin)
-* ### [¿Cómo se comporta la pila en un caso real?](#stack-behavior)
-* ### [¿Cómo se produce el buffer overflow?](#how-buffer-overflow-is-produced)
-* ### [Práctica sencilla de Buffer Overflow (64 bits)](#buffer-overflow-practice)
-  * #### [Preparando el entorno](#environment-preparation)
-  * #### [Compilando el código y probando la ejecución](#compiling-and-executing)
-  * #### [Detectando el Buffer Overflow](#detecting-buffer-overflow)
-  * #### [Averiguando el tamaño del buffer](#guessing-buffer-size)
-  * #### [Sobrescribiendo el registro IP](#overriding-IP)
-  * #### [Tomando el control](#taking-control)
-  * #### [Conclusiones](#conclusions)
+<ul>
+    <li><a style="font-size: 20px" href="#before-begin">Conceptos básicos antes de empezar</a></li> 
+    <li><a style="font-size: 20px" href="#stack-behavior">¿Cómo se comporta la pila en un caso real?</a></li> 
+    <li><a style="font-size: 20px" href="#how-buffer-overflow-is-produced">¿Cómo se produce el buffer overflow?</a></li>
+    <li><a style="font-size: 20px" href="#buffer-overflow-practice">Práctica sencilla de Buffer Overflow (64 bits)</a></li>
+    <ul>
+        <li><a style="font-size: 18px" href="#environment-preparation">Preparando el entorno</a></li>
+        <li><a style="font-size: 18px" href="#compiling-and-executing">Compilando el código y probando la ejecución</a></li>
+        <li><a style="font-size: 18px" href="#detecting-buffer-overflow">Detectando el Buffer Overflow</a></li>
+        <li><a style="font-size: 18px" href="#guessing-buffer-size">Averiguando el tamaño del buffer</a></li>
+        <li><a style="font-size: 18px" href="#overriding-IP">Sobrescribiendo el registro IP</a></li>
+        <li><a style="font-size: 18px" href="#taking-control">Tomando el control</a></li>
+        <li><a style="font-size: 18px" href="#conclusions">Conclusiones</a></li>    
+    </ul>
+</ul>
 
 ## <a name="before-begin"></a> Conceptos básicos antes de empezar
 
