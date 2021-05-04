@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 {:refdef: style="text-align: center;"}
-![Perfil](/assets/profile.jpg)
+<img src="/assets/profile.jpg" style="border-radius: 50%;">
 {: refdef}
 
 Mi nombre es Bruno López Trigo, soy un desarrollador de software con 2 años de experiencia y con
